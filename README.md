@@ -54,6 +54,7 @@ physique-analyzer/
 ├── recommendations.py    # Generates training advice
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
