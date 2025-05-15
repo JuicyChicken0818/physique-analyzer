@@ -46,7 +46,14 @@ It compares your ratios to a target physique and gives customized training feedb
 
 ## 📁 Project Structure
 
-```bash physique-analyzer/ ├── images/ # Input images ├── main.py # Runs the analysis ├── physique_metrics.py # Extracts pose and calculates ratios ├── recommendations.py # Generates training advice ├── requirements.txt └── README.md ```
+```bash
+physique-analyzer/
+├── images/               # Input images
+├── main.py               # Runs the analysis
+├── physique_metrics.py   # Extracts pose and calculates ratios
+├── recommendations.py    # Generates training advice
+├── requirements.txt
+└── README.md
 
 ---
 
